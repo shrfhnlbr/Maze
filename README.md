@@ -28,4 +28,4 @@ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags`
 ![Screenshot (2)](https://github.com/shrfhnlbr/Maze/assets/113669428/6b9c79e7-113b-4a1b-ba76-c32a86130e00)
 
 ## NOTE:
-The maze is still under development. Any contributions are greatly welcome.
+More content/interactions are yet to be added, and all contributions are greatly welcome.
