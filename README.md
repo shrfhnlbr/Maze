@@ -19,8 +19,7 @@ git clone https://github.com/shrfhnlbr/Maze.git
 
 ## Compilation
 ```sh
-gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
-```
+gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze
 
 ## Demo
 (https://www.youtube.com/watch?v=1vjDGEZQohk)
