@@ -20,10 +20,16 @@ git clone https://github.com/shrfhnlbr/Maze.git
 ## Compilation
 ```sh
 gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze
+```
 
-## Demo
+## Flowchart
+![image](https://github.com/shrfhnlbr/Maze/assets/113669428/8b6fd306-98f3-4921-bfe4-0d526e278007)
+
+
+## Video Demo
 (https://www.youtube.com/watch?v=1vjDGEZQohk)
 
+## Screenshot
 ![Screenshot (2)](https://github.com/shrfhnlbr/Maze/assets/113669428/6b9c79e7-113b-4a1b-ba76-c32a86130e00)
 
 ## NOTE:
